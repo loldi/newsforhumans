@@ -1,4 +1,4 @@
-# News For Humans ([@NewsForHumans](www.twitter.com/newsforhumans)
+# News For Humans ([@NewsForHumans](https://twitter.com/NewsForHumans))
 
 Twitter bot inspired by Darius Kazemi's @twoheadlines
 Markov algorithm code chunks from [Casey Chu @bitsofpancake](https://github.com/bitsofpancake)
