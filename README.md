@@ -2,7 +2,6 @@
 
 News for humans, by robots.
 
-Code sourced from Darius Kazemi
 
 ## License
 Copyright (c) 2015 Genualdi, Andrew 
